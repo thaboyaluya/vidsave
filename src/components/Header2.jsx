@@ -44,7 +44,7 @@ const Header2 = ({ title }) => {
       url: 'https://social-media-video-downloader.p.rapidapi.com/smvd/get/instagram',
       params: {
         url: `${url}`,
-        filename: `instagram-${generateRandomString(10)}-(dowloaded from vidsaver-j31s.onrender.com)`
+        filename: `instagram-${generateRandomString(10)}-(dowloaded from vidsaver-ghn9.onrender.com)`
       },
       headers: {
         'X-RapidAPI-Key': process.env.REACT_APP_RAPID_API_KEY,

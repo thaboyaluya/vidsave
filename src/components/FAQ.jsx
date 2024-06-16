@@ -30,7 +30,7 @@ const FAQ = ({ subject }) => {
           </div>
           <div id="collapse2" className="collapse" >
             <div className="card-body">
-              Yes, you can download {subject} videos in MP4 for free. You don't need any software for that .You can use the <Link to={"https://vidsaver-j31s.onrender.com"}>VidSaver tool</Link> to download {subject} video without downloading any software.
+              Yes, you can download {subject} videos in MP4 for free. You don't need any software for that .You can use the <Link to={"https://vidsaver-ghn9.onrender.com"}>VidSaver tool</Link> to download {subject} video without downloading any software.
             </div>
           </div>
         </div>
@@ -46,7 +46,7 @@ const FAQ = ({ subject }) => {
             <div className="card-body">
               <ul className='list-group list-group-flush'>
                 <li className='list-group-item'>If you want to download a video in MP4,First you copy the {subject} link.</li>
-                <li className='list-group-item'>Then paste that link into the search box on the <Link to={"https://vidsaver-j31s.onrender.com"}> VidSaver website </Link>.</li>
+                <li className='list-group-item'>Then paste that link into the search box on the <Link to={"https://vidsaver-ghn9.onrender.com"}> VidSaver website </Link>.</li>
                 <li className='list-group-item'> Then select the video or audio  you need and click the download  "  <i className="fa  fa-download" aria-hidden="true"></i>  "  icon.</li>
               </ul>
             </div>

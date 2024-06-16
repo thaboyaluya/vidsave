@@ -12,7 +12,7 @@ const Footer = ({ subject }) => {
       navigator.share({
         title: "VidSaver",
         text: "Convert YouTube,Instagram,Tiktok and Facebook videos to MP4 quickly with our easy-to-use online converter. No registration required, just paste the link and download your video.It's really that simple.",
-        url: "https://vidsaver-j31s.onrender.com"
+        url: "https://vidsaver-ghn9.onrender.com"
       })
     } else {
       console.log("Share is not supported in your browser.")

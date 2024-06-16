@@ -45,7 +45,7 @@ const Instructions = ({ pic1, pic2, pic3, pic4, pic5, title, tip1, tip2 }) => {
 
           <div className="card-body m-3">
             <div className="text-center">
-              <img className="img-fluid" loading='lazy' width={'600px'} src={pic3} alt={`${title} link pasted on vidsaver-j31s.onrender.com`} />
+              <img className="img-fluid" loading='lazy' width={'600px'} src={pic3} alt={`${title} link pasted on vidsaver-ghn9.onrender.com`} />
               <div className="py-3">
                 <h4 className="card-title">Step 3. Paste Link</h4>
                 <p>
